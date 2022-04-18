@@ -62,7 +62,7 @@ J'ai fais le projet en 2 jours, lors du week-end de pâques =, comme si c'étais
 Même s'il n'est pas parfait je suis très content d'être arrivé jusqu'au bout. 
 Si j'avais eu plus de temps j'aurai pu rajouter quelques fonctionnalités simple
 
-## Setup 👨‍🏭
+### Setup 👨‍🏭
 
 ruby 3.0.1
 
