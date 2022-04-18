@@ -15,12 +15,12 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 group :development, :test do
   gem 'debug', platforms: %i[mri mingw x64_mingw]
-  gem 'ffaker', '~> 2.21'
 end
 
 group :development do
   gem 'web-console'
 end
 
+gem 'ffaker', '~> 2.21'
 gem 'activerecord-import', '~> 1.4'
 gem 'inertia_rails', '~> 1.11'
